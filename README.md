@@ -14,7 +14,7 @@ For macOS (preferred, as this app was built in a Unix enviornment):
 
 3. If the app still doesn't run, open System Settings > Privacy & Security, and enable "Allow applications from: App Store and Known Developers" and click "Open anyway"
 
-For Windows:
+For Windows (may have issues running):
 
 1. Extract the contents of the GNNSeqGUI.zip file.
    
