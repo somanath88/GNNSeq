@@ -29,4 +29,4 @@ Make sure you have an active internet connection when running the application fo
 
 The application may experience occasional delays if the server is overloaded or temporarily unavailable. If this happens, please wait for a while and try again later.
 
-Detailed nstructions for usage of the application are within the application itself.
+Detailed instructions for usage of the application are within the application itself.
