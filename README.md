@@ -1,7 +1,7 @@
 # GNNSeq: Sequence-Based Prediction of Protein-Ligand Binding Affinity using a Hybridized GNN
 
 # Downloading the GNNSeq Predictive Model
-The executable file containing the GUI for the predictive GNNSeq model can be downloaded from the GNNSeqGUI zip files above. Please download either the GNNSeqGUI_Mac.zip or GNNSeqGUI_WIndows.zip respectively based on your system's OS. 
+The executable file containing the GUI for the predictive GNNSeq model can be downloaded from the GNNSeqGUI zip files above. Please download either the GNNSeqGUI_Mac.zip or GNNSeqGUI_WIndows.zip respectively based on your system's OS. To download, click the respective zip file and click the "download raw file" button.
 
 The executable file should be able to run without downloading any other dependencies. If any issues, kindly ensure that you run the application as an administrator. If your system blocks the application, verify and adjust your system permissions or manually bypass the operating system's security restrictions. 
 
